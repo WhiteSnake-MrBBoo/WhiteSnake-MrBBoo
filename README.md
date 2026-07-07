@@ -88,7 +88,7 @@ flowchart LR
 
 ### 🐍 System Status: Working Hard (Server Night-Shift)
 
-> **[Core]** `Java 21` · `Spring Boot` · `MariaDB` 
+> **[Core]** `Java 21` · `Spring Boot` · `MariaDB` · `C#` · `Python` · `Docker` 
 > - *성격: 묵묵히 시키는 거 다 하는 타입 (야근 주동자)*
 
 > **[Intelligence]** `YOLO v11` · `OpenAI` · `OpenCV`
