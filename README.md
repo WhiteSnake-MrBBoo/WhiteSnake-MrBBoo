@@ -573,17 +573,50 @@ AI가 판단
 
 ## 📚 Featured Repositories
 
-### Portfolio & Case Studies
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [Information Portfolio](https://github.com/WhiteSnake-MrBBoo/information_portfolio)
+
+**Portfolio · Architecture · Case Studies**
+
+Backend, AI Vision, RPA와 자동화 프로젝트의
+설계 과정과 기술 사례를 정리한 포트폴리오입니다.
+
+<br/>
 
 <a href="https://github.com/WhiteSnake-MrBBoo/information_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteSnake-MrBBoo&repo=information_portfolio&theme=github_dark&hide_border=true" alt="information_portfolio" />
+  <img src="https://img.shields.io/badge/Explore_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Information Portfolio" />
 </a>
 
-### AI Backoffice & Automation
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [BBoo Technology](https://github.com/WhiteSnake-MrBBoo/bboo_technology)
+
+**AI · Backend · Workflow Automation**
+
+Spring Boot, AI, QR, LLM을 결합한
+서비스 및 업무 자동화 프로젝트입니다.
+
+<br/>
 
 <a href="https://github.com/WhiteSnake-MrBBoo/bboo_technology">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteSnake-MrBBoo&repo=bboo_technology&theme=github_dark&hide_border=true" alt="bboo_technology" />
+  <img src="https://img.shields.io/badge/Explore_AI_Project-412991?style=for-the-badge&logo=github&logoColor=white" alt="Explore BBoo Technology" />
 </a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **Different projects, same mission:**
+> Let humans make decisions. Let systems handle repetition.
+
+</div>
+
 
 ---
 
